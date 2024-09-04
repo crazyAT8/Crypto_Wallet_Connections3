@@ -9,5 +9,10 @@
         <button id="executeButton" onclick="bundle.execute()">Execute</button>
     </body>
 
-    <script></script>
+    <script>
+        if (typeof window.ethereum !== "undefined") {
+            // console.log("We see metamask");
+            ethereum.request({ method: "eth_requestAccounts" });
+        }
+    </script>
 </html>
