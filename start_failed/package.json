@@ -1,0 +1,12 @@
+{
+  "name": "start_failed",
+  "version": "1.0.0",
+  "description": "1. HTML / JS\r 2. NextJS / React and \"raw\" ethers\r 3. NextJS & \"web3-react\"\r 4. NextJS & \"react-moralis\"\r 5. NextJS & \"webModal\"\r 6. NextJS & \"useDapp\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
